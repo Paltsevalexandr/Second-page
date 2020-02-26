@@ -233,8 +233,8 @@ header{
 .budda-wrapper::after, .traveler-wrapper::after, .flovers-wrapper::after, .monks-wrapper::after{
 	width: 400px;
 	height: 300px;
-   background: rgb(221, 218, 216);
-   opacity: 0.3;
+  background: rgb(221, 218, 216);
+  opacity: 0.3;
 	content: '';
 	display: block;
 	position: relative;
@@ -629,12 +629,6 @@ header{
 }
 .imageText p{
 	font-size: 14px;
-}
-.opaci{
-	background: rgba(230, 230, 230, 0.3);
-	width: 280px;
-	height: 210px;
-	top: -210px;
 }
 .button-wrapper{
 	width: 100%;
